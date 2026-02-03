@@ -1,4 +1,4 @@
-# Eder Orlando Méndez Salazar, PhD 🧬
+# Eder Orlando Méndez Salazar, PhD
 
 **Bioinformatics Scientist | Multi-Omics Integration | Machine Learning | Microbiome Research**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 
 Bioinformatics Scientist with **8+ years** of experience analyzing large-scale biological datasets using computational biology, statistics, and machine learning. I specialize in **multi-omics integration** (genomics, transcriptomics, metagenomics, metabolomics) and develop scalable algorithms and automated pipelines for high-performance analytical workflows.
 
@@ -18,7 +18,7 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **Multi-omics Data Integration**: Combining genomics, transcriptomics, metagenomics, and metabolomics data
 - **Microbiome Analysis**: Host-microbiome interactions, bacterial warfare mechanisms, IBD research
@@ -28,7 +28,7 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
@@ -63,7 +63,7 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ---
 
-## 📚 Selected Publications
+## Selected Publications
 
 ### First/Co-First Author
 
@@ -75,21 +75,18 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ### Contributing Author
 
-4. Routy, B., **Méndez-Salazar, E.O.**, et al. (2023). "Fecal microbiota transplantation plus anti-PD-1 immunotherapy in advanced melanoma: a phase II trial." *Nature Medicine*, 29(9), 2145-2157. **[Impact Factor: 82.9]**
+4. Khoudia, D., **Méndez-Salazar, E.O.**, et al. (2026). "Metagenomics and culturomics reveal the dual role of gut microbiome in the development of immune-related toxicities and immune checkpoint inhibitors
+ecacy in cancer. **[Impact Factor: ]**
 
-5. Derosa, L., **Méndez-Salazar, E.O.**, et al. (2022). "Intestinal Akkermansia muciniphila predicts clinical response to PD-1 blockade in patients with advanced non-small-cell lung cancer." *Nature Medicine*, 28(2), 315-324.
-
-6. Zitvogel, L., **Méndez-Salazar, E.O.**, et al. (2021). "The microbiome in cancer immunotherapy: Diagnostic tools and therapeutic strategies." *Science*, 371(6536), eabc4552. **[Impact Factor: 56.9]**
-
-**Total Publications:** 10+ peer-reviewed articles  
-**Citations:** 500+ (Google Scholar)  
-**h-index:** 8
+**Total Publications:** 6+ peer-reviewed articles  
+**Citations:** 200+ (Google Scholar)  
+**h-index:** 6
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. 🧬 RNA-seq Analysis Pipeline for T6SS Research
+### 1. RNA-seq Analysis Pipeline for T6SS Research
 **Description:** Comprehensive RNA-seq pipeline analyzing bacterial Type VI Secretion System mechanisms in mouse gut models.
 
 **Technologies:** Python, R, STAR, DESeq2, EnhancedVolcano, pathway enrichment  
@@ -97,13 +94,13 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 - Analyzed 50+ samples with 30M+ reads each on HPC cluster
 - Identified 500+ differentially expressed genes (FDR < 0.05)
 - Generated publication-ready volcano plots and heatmaps
-- Automated workflow reducing analysis time from 2 weeks → 2 days
+- Automated workflow reducing analysis time from 2 weeks to 2 days
 
-📁 **Code:** [`/rnaseq/t6ss_analysis/`](./rnaseq/t6ss_analysis/)
+**Code:** [`/rnaseq/t6ss_analysis/`](./rnaseq/t6ss_analysis/)
 
 ---
 
-### 2. 🦠 Microbiome Biomarker Discovery for Immunotherapy Response
+### 2. Microbiome Biomarker Discovery for Immunotherapy Response
 **Description:** Machine learning models predicting immunotherapy response using gut microbiome data from 500+ cancer patients.
 
 **Technologies:** Python, scikit-learn, Random Forest, XGBoost, QIIME2, MetaPhlAn  
@@ -113,11 +110,11 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 - Validated model on independent cohort (n=150)
 - Developed interactive R Shiny dashboard for clinicians
 
-📁 **Code:** [`/machine-learning/biomarker_discovery/`](./machine-learning/biomarker_discovery/)
+**Code:** [`/machine-learning/biomarker_discovery/`](./machine-learning/biomarker_discovery/)
 
 ---
 
-### 3. 🔬 Multi-Omics Integration Framework
+### 3. Multi-Omics Integration Framework
 **Description:** Integrated analysis of metagenomics, metabolomics, and clinical data for inflammatory bowel disease research.
 
 **Technologies:** R, Python, WGCNA, correlation networks, pathway analysis  
@@ -125,13 +122,12 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 - Integrated 3 omics layers from 200+ IBD patients
 - Identified microbe-metabolite-clinical parameter networks
 - Discovered novel associations between *Faecalibacterium* and anti-inflammatory metabolites
-- Published in *Cell Host & Microbe*
 
-📁 **Code:** [`/multi-omics/ibd_integration/`](./multi-omics/ibd_integration/)
+**Code:** [`/multi-omics/ibd_integration/`](./multi-omics/ibd_integration/)
 
 ---
 
-### 4. 📊 Automated Visualization Pipeline for High-Throughput Data
+### 4. Automated Visualization Pipeline for High-Throughput Data
 **Description:** Production-ready R package for generating publication-quality figures from RNA-seq and metagenomics data.
 
 **Technologies:** R, ggplot2, ComplexHeatmap, pheatmap, cowplot  
@@ -141,11 +137,11 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 - Batch processing for 100+ samples
 - Integrated statistical testing and FDR correction
 
-📁 **Code:** [`/visualizations/omics_plots/`](./visualizations/omics_plots/)
+**Code:** [`/visualizations/omics_plots/`](./visualizations/omics_plots/)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ederorms&show_icons=true&theme=radical)
 
@@ -153,41 +149,33 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
-- 🥇 **Best Poster Award** - Canadian Association for Clinical Microbiology and Infectious Diseases (2023)
-- 📝 **Peer Reviewer** - BMC Microbiology, Scientific Reports, Frontiers in Microbiology
-- 🎓 **Teaching Excellence** - Universidad Anáhuac México Sur (2018-2020)
-- 💻 **Hackathon Winner** - McGill Bioinformatics Hackathon (2023)
+- **Peer Reviewer** - BMC Microbiology, Scientific Reports, Frontiers in Microbiology
+- **Teaching Excellence** - Universidad Anáhuac México Sur (2018-2020)
 
----
+## Current Projects
 
-## 🎯 Current Projects
-
-- 🔬 **Type VI Secretion System RNA-seq analysis** (UC Davis)
-- 🤖 **Machine learning for microbiome-based diagnostics**
-- 📊 **Multi-omics data integration framework v2.0**
-- 🧬 **CRISPR screen analysis pipeline**
+- Type VI Secretion System RNA-seq analysis (UC Davis)
+- Machine learning for microbiome-based diagnostics
+- Multi-omics data integration framework v2.0
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-I'm always interested in collaborating on bioinformatics projects, discussing research ideas, or exploring industry opportunities in computational biology!
+I'm always interested in collaborating on bioinformatics projects, discussing research ideas, or exploring industry opportunities in computational biology.
 
-- 💼 **LinkedIn:** [linkedin.com/in/eder-mendez-salazar](https://www.linkedin.com/in/eder-mendez-salazar)
-- 📧 **Email:** eder_mendezsalazar@outlook.com
-- 🌐 **Location:** Davis, California, USA
-- 📄 **CV:** [Download PDF](link-to-cv)
+- **LinkedIn:** [linkedin.com/in/eder-mendez-salazar](https://https://www.linkedin.com/in/eder-m%C3%A9ndez-b133a127/)
+- **Email:** eder_mendezsalazar@outlook.com
+- **Location:** Davis, California, USA
 
----
+## Additional Information
 
-## 🌟 Fun Facts
-
-- 🐴 I developed a machine learning model to predict horse race outcomes (just for fun!)
-- 🎲 I enjoy applying data science to sports analytics and gambling strategies
-- 🌮 Originally from Mexico, bringing tacos and bioinformatics to California
-- 📚 I speak Spanish (native) and English (fluent)
+- Developed a machine learning model to predict horse race outcomes (recreational data science project)
+- Passionate about applying computational methods to diverse fields including sports analytics
+- Native Spanish speaker, fluent in English
+- Originally from Mexico
 
 ---
 
@@ -195,6 +183,6 @@ I'm always interested in collaborating on bioinformatics projects, discussing re
 
 **"Turning biological data into actionable insights, one pipeline at a time."**
 
-⭐️ If you find my work interesting, feel free to star the repositories!
+If you find my work interesting, feel free to star the repositories.
 
 </div>
