@@ -11,10 +11,10 @@
 
 ## About Me
 
-Bioinformatics Scientist with **8+ years** of experience analyzing large-scale biological datasets using computational biology, statistics, and machine learning. I specialize in **multi-omics integration** (genomics, transcriptomics, metagenomics, metabolomics) and develop scalable algorithms and automated pipelines for high-performance analytical workflows.
+Bioinformatics Scientist with **5+ years** of experience analyzing large-scale biological datasets using computational biology, statistics, and machine learning. I specialize in **multi-omics integration** (genomics, transcriptomics, metagenomics, metabolomics) and develop scalable algorithms and automated pipelines for high-performance analytical workflows.
 
-**Current Position:** Postdoctoral Researcher at UC Davis  
-**Research Focus:** Host-microbiome interactions, bacterial pathogenesis (AIEC/EHEC), RNA-seq analysis, machine learning for biomarker discovery
+**Current Position:** Bioinformatician Researcher at UC Davis  
+**Research Focus:** Host-microbiome interactions, bacterial pathogenesis (AIEC/EHEC), RNA-seq analysis,Metagenomics, 16S rRNA analysis,  machine learning for biomarker discovery in IBD
 
 ---
 
@@ -34,7 +34,6 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-Expert-blue?style=flat&logo=r)
 ![Bash](https://img.shields.io/badge/Bash-Advanced-yellow?style=flat&logo=gnu-bash)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=flat&logo=postgresql)
 
 **Python:** pandas, NumPy, scikit-learn, Biopython, matplotlib, seaborn  
 **R:** Bioconductor, DESeq2, edgeR, Seurat, ggplot2, dplyr, tidyverse  
@@ -67,16 +66,13 @@ Bioinformatics Scientist with **8+ years** of experience analyzing large-scale b
 
 ### First/Co-First Author
 
-1. **Méndez-Salazar, E.O.**, et al. (2024). "Multi-omics analysis reveals microbiome signatures associated with immunotherapy response in melanoma patients." *npj Precision Oncology* (In preparation)
-
-2. **Méndez-Salazar, E.O.**, Routy, B., et al. (2023). "Gut microbiome modulation enhances anti-PD-1 efficacy in melanoma: Results from the FMT-LUMINate Phase II trial." *Nature Communications* (Submitted)
-
-3. **Méndez-Salazar, E.O.**, et al. (2022). "Integrative analysis of metagenomics and metabolomics reveals functional signatures in inflammatory bowel disease." *Cell Host & Microbe*, 30(8), 1234-1248.
+1. **Méndez-Salazar, E.O.**, et al. (2024). " Antibiotics are associated with worse outcomes in lung cancer patients treated with chemotherapy and immunotherapy ." *npj Precision Oncology*
+2. **Méndez-Salazar, E.O.**, et al. (2022). "Taxonomic variations in the gut microbiome of gout patients with and without tophi might have a functional impact on urate metabolism."
 
 ### Contributing Author
 
-4. Khoudia, D., **Méndez-Salazar, E.O.**, et al. (2026). "Metagenomics and culturomics reveal the dual role of gut microbiome in the development of immune-related toxicities and immune checkpoint inhibitors
-ecacy in cancer. **[Impact Factor: ]**
+3. Khoudia, D., **Méndez-Salazar, E.O.**, et al. (2026). "Metagenomics and culturomics reveal the dual role of gut microbiome in the development of immune-related toxicities and immune checkpoint inhibitors
+ecacy in cancer. ** Under revision**
 
 **Total Publications:** 6+ peer-reviewed articles  
 **Citations:** 200+ (Google Scholar)  
@@ -100,7 +96,7 @@ ecacy in cancer. **[Impact Factor: ]**
 
 ---
 
-### 2. Microbiome Biomarker Discovery for Immunotherapy Response
+### 2. Microbiome Biomarker Discovery for IBD patients
 **Description:** Machine learning models predicting immunotherapy response using gut microbiome data from 500+ cancer patients.
 
 **Technologies:** Python, scikit-learn, Random Forest, XGBoost, QIIME2, MetaPhlAn  
@@ -166,7 +162,7 @@ ecacy in cancer. **[Impact Factor: ]**
 
 I'm always interested in collaborating on bioinformatics projects, discussing research ideas, or exploring industry opportunities in computational biology.
 
-- **LinkedIn:** [linkedin.com/in/eder-mendez-salazar](https://https://www.linkedin.com/in/eder-m%C3%A9ndez-b133a127/)
+- **LinkedIn:** [https://https://www.linkedin.com/in/eder-m%C3%A9ndez-b133a127/)
 - **Email:** eder_mendezsalazar@outlook.com
 - **Location:** Davis, California, USA
 
