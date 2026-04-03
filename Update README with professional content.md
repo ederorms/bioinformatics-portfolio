@@ -90,7 +90,6 @@ ecacy in cancer. ** Under revision**
 - Analyzed 50+ samples with 30M+ reads each on HPC cluster
 - Identified 500+ differentially expressed genes (FDR < 0.05)
 - Generated publication-ready volcano plots and heatmaps
-- Automated workflow reducing analysis time from 2 weeks to 2 days
 
 **Code:** [`/rnaseq/t6ss_analysis/`](./rnaseq/t6ss_analysis/)
 
