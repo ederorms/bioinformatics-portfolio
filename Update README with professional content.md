@@ -9,57 +9,52 @@
 
 ---
 
-## About Me
+Bioinformatics Scientist with 5+ years of experience analyzing large‑scale biological and clinical datasets across clinical trials, microbiome research, and host‑pathogen interactions. I specialize in multi‑omics integration, statistical modeling, and machine learning for biomarker discovery.
 
-Bioinformatics Scientist with **5+ years** of experience analyzing large-scale biological datasets using computational biology, statistics, and machine learning. I specialize in **multi-omics integration** (genomics, transcriptomics, metagenomics, metabolomics) and develop scalable algorithms and automated pipelines for high-performance analytical workflows.
+I have worked in Canada (CRCHUM – Université de Montréal) leading bioinformatics for a Phase II immunotherapy clinical trial with >500 patients, and currently at UC Davis analyzing host‑microbiome interactions using RNA‑seq, metagenomics, and metabolomics.
 
-**Current Position:** Bioinformatician Researcher at UC Davis  
-**Research Focus:** Host-microbiome interactions, bacterial pathogenesis (AIEC/EHEC), RNA-seq analysis,Metagenomics, 16S rRNA analysis,  machine learning for biomarker discovery in IBD
-
+My work bridges computational biology, biostatistics, and translational medicine, delivering reproducible pipelines and actionable insights for clinicians and research teams.
 ---
 
-## Research Interests
+Research Focus
 
-- **Multi-omics Data Integration**: Combining genomics, transcriptomics, metagenomics, and metabolomics data
-- **Microbiome Analysis**: Host-microbiome interactions, bacterial warfare mechanisms, IBD research
-- **Cancer Immunotherapy**: Biomarker discovery for immunotherapy response prediction
-- **Machine Learning**: Random Forest, XGBoost, SVM for clinical outcome prediction
-- **Pipeline Development**: Scalable, reproducible workflows for HPC environments
+    Clinical Trial Bioinformatics: Microbiome‑based biomarkers, response prediction, toxicity modeling
 
----
+    Multi‑Omics Integration: Genomics, transcriptomics, metagenomics, metabolomics
 
-## Technical Skills
+    Machine Learning for Medicine: RF, XGBoost, SVM, survival models
 
-### Programming & Analysis
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
-![R](https://img.shields.io/badge/R-Expert-blue?style=flat&logo=r)
-![Bash](https://img.shields.io/badge/Bash-Advanced-yellow?style=flat&logo=gnu-bash)
+    Microbiome & Immunotherapy: PD‑1/PD‑L1 response prediction, immune‑related adverse events
 
-**Python:** pandas, NumPy, scikit-learn, Biopython, matplotlib, seaborn  
-**R:** Bioconductor, DESeq2, edgeR, Seurat, ggplot2, dplyr, tidyverse  
-**Bash/Unix:** Shell scripting, HPC job scheduling (SLURM, PBS)
+    High‑Performance Pipelines: Scalable workflows for HPC clusters (SLURM)
 
-### Bioinformatics & Omics
-- **RNA-seq Analysis:** STAR, HTSeq, Salmon, kallisto, DESeq2, edgeR, pathway enrichment
-- **Single-cell RNA-seq:** Seurat, Scanpy, Cell Ranger, clustering, trajectory analysis
-- **Metagenomics:** QIIME2, MetaPhlAn, Kraken2, HUMAnN, taxonomic profiling
-- **Genomics:** GATK, samtools, bcftools, variant calling, WGS analysis
-- **Multi-omics Integration:** Data fusion, correlation analysis, network biology
+Technical Skills
+Programming & Analysis
 
-### Machine Learning & Statistics
-- **Supervised Learning:** Random Forest, XGBoost, SVM, logistic regression
-- **Unsupervised Learning:** PCA, t-SNE, UMAP, hierarchical clustering, k-means
-- **Model Validation:** Cross-validation, ROC/AUC, feature selection, hyperparameter tuning
-- **Survival Analysis:** Cox regression, Kaplan-Meier curves
+Python • R • Bash • Git/GitHub • HPC (SLURM)
+Bioinformatics
 
-### Infrastructure & Tools
-- **HPC Computing:** Franklin cluster (UC Davis), Compute Canada clusters
-- **Version Control:** Git, GitHub, collaborative development
-- **Workflow Managers:** Snakemake, Nextflow (basic)
-- **Cloud Computing:** AWS, GCP (basic)
-- **Visualization:** ggplot2, matplotlib, plotly, R Shiny, Tableau (basic)
-- **Documentation:** Markdown, Jupyter notebooks, R Markdown
+    RNA‑seq: STAR, Salmon, DESeq2, edgeR
 
+    Metagenomics: QIIME2, MetaPhlAn, Kraken2, HUMAnN
+
+    Genomics: GATK, samtools, bcftools
+
+    Multi‑omics: WGCNA, correlation networks, pathway analysis
+
+Machine Learning & Statistics
+
+    Random Forest, XGBoost, SVM
+
+    Cross‑validation, ROC/AUC, feature selection
+
+    Survival analysis (Cox, Kaplan‑Meier)
+
+    Mixed models, longitudinal analysis
+
+Visualization & Reporting
+
+ggplot2 • ComplexHeatmap • plotly • R Shiny • Markdown
 ---
 
 ## Selected Publications
