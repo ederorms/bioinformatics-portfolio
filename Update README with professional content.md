@@ -122,20 +122,6 @@ ecacy in cancer. ** Under revision**
 
 ---
 
-### 4. Automated Visualization Pipeline for High-Throughput Data
-**Description:** Production-ready R package for generating publication-quality figures from RNA-seq and metagenomics data.
-
-**Technologies:** R, ggplot2, ComplexHeatmap, pheatmap, cowplot  
-**Features:**
-- One-command generation of volcano plots, heatmaps, PCA plots
-- Customizable themes matching journal requirements (*Nature*, *Cell*, *Science*)
-- Batch processing for 100+ samples
-- Integrated statistical testing and FDR correction
-
-**Code:** [`/visualizations/omics_plots/`](./visualizations/omics_plots/)
-
----
-
 ## GitHub Stats
 
 ![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ederorms&show_icons=true&theme=radical)
